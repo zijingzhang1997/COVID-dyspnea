@@ -1,8 +1,4 @@
----
-title: "Dyspnea evaluation on COVID-19 patients "
-excerpt: "Pulmonary diseases, Non-invasive respiratory sensor [Slides](http://zijingzhang1997.github.io/files/COVID/COVID_intro.pdf) <br/><img src='/images/COVID/pic1.png'><img src='/images/COVID/covid.jpg'><br/>"
-collection: portfolio
----
+
 
 [Slides](http://zijingzhang1997.github.io/files/COVID/COVID_intro.pdf)
 
